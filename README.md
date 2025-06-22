@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there, I'm Prashant 👋
 
-<!--
-**prashant348/prashant348** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 **Student passionate about tech, learning, and building cool things!**  
+I’m not tied to a specific stack—I love exploring new technologies and creating whatever inspires me.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- **Python**
+- **HTML & CSS**
+
+---
+
+## 🚀 Favorite Projects
+
+- [Modern-UI-for-web-apps](https://github.com/prashant348/Modern-UI-for-web-apps): Sleek, modern UI components for your next web app.
+- [PDF-word-search-tool](https://github.com/prashant348/PDF-word-search-tool): Effortlessly search words inside PDF files.
+
+---
+
+## 🌐 Connect with Me
+
+- 🧵 [Threads: @codingweapon](https://www.threads.net/codingweapon)
+- 📸 [Instagram: @codingweapon](https://www.instagram.com/codingweapon)
+
+---
+
+## 💡 About Me
+
+> “I'm not focused on a specific tech stack — I love learning and building whatever excites me.”
+
+- I’m always open to collaborating on new ideas and projects!
+- Let's connect and learn together 🚀
+
+---
+
+🌟 _Thanks for stopping by!_
