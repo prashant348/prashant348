@@ -16,7 +16,7 @@ I’m not tied to a specific stack—I love exploring new technologies and creat
 
 - [Modern-UI-for-web-apps](https://github.com/prashant348/Modern-UI-for-web-apps): Sleek, modern UI components for your next web app.
 - [PDF-word-search-tool](https://github.com/prashant348/PDF-word-search-tool): Effortlessly search words inside PDF files.
-
+- [Bank-Management-System](https://github.com/prashant348/Bank-Management-System): Simulate a real-world banking environment
 ---
 
 ## 🌐 Connect with Me
