@@ -8,7 +8,9 @@ I’m not tied to a specific stack—I love exploring new technologies and creat
 ## 🛠️ Skills
 
 - **Python**
-- **HTML & CSS**
+- **HTML/CSS/JS**
+- **node.js & express.js**
+- **MongoDB**
 
 ---
 
