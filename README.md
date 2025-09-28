@@ -1,36 +1,51 @@
-# Hi there, I'm Prashant 👋
+# Hi there, I'm Prashant (codingweapon) 👋
 
-🌱 **Student passionate about tech, learning, and building cool things!**  
-I’m not tied to a specific stack—I love exploring new technologies and creating whatever inspires me.
+## I will come directly to the point
+
+## 🛠️ My Skills & Tech Stack
+
+- Python (My first programming lang)
+- HTML
+- CSS
+- JavaScript
+- Tailwind
+- React
+- Figma
+- Node.js
+- Express.js
+- JWT Auth
+- Firebase
+- TypeScript
+- MongoDB (NoSQL DB)
+- Mongoose (ORM/ODM)
+- Git & GitHub (Version Control)
+- Postman (API Testing)
+- vercel & render (Deployment)
+- Cloudinary (Files Upload)
+- bubblewrap cli (for PWA)
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Current Learning Goals
 
-- **Python**
-- **HTML/CSS/JS**
-- **node.js & express.js**
-- **MongoDB**
+- PostgreSQL (SQL DB)
+- Prisma (ORM/ODM)
+- Next.JS (Full-Stack React Framework) 
+- Docker (DevOps & Deployment)
+- React Native (For mobile app dev)
 
----
-
-## 🚀 Favorite Projects
-
-- [modern-UI-for-web-apps](https://github.com/prashant348/modern-UI-for-web-apps): Sleek, modern UI components for your next web app.
-- [PDF-word-search-tool](https://github.com/prashant348/PDF-word-search-tool): Effortlessly search words inside PDF files.
-- [Ultimate-Bank-Management-System](https://github.com/prashant348/Ultimate-Bank-Management-System): Simulate a real-world banking environment
----
 
 ## 🌐 Connect with Me
 
 - 🧵 [Threads: @codingweapon](https://www.threads.net/codingweapon)
 - 📸 [Instagram: @codingweapon](https://www.instagram.com/codingweapon)
+-    [YouTube: @realcodingweapon](https://www.youtube.com/@realcodingweapon)
 
 ---
 
 ## 💡 About Me
 
-> “I'm not focused on a specific tech stack — I love learning and building whatever excites me.”
+> “I'm not focused on a specific tech stack — I just love learning, exploring and building whatever EXCITES me.”
 
 - I’m always open to collaborating on new ideas and projects!
 - Let's connect and learn together 🚀
