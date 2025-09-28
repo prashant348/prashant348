@@ -1,6 +1,7 @@
 # Hi there, I'm Prashant (codingweapon) 👋
 
 ## I will come directly to the point
+### First of all I am not focused on specific stack. I learn whatever comes in my way of building Full-Stack Applications. Always Hungry for exploring technologies and building Full-Stack apps using them. Also I build whatever EXCITES me.
 
 ## 🛠️ My Skills & Tech Stack
 
@@ -18,11 +19,11 @@
 - TypeScript
 - MongoDB (NoSQL DB)
 - Mongoose (ORM/ODM)
-- Git & GitHub (Version Control)
-- Postman (API Testing)
-- vercel & render (Deployment)
-- Cloudinary (Files Upload)
-- bubblewrap cli (for PWA)
+- Git & GitHub (For Version Control)
+- Postman (For API Testing)
+- vercel & render (For Deployment)
+- Cloudinary (For Files Upload)
+- bubblewrap cli (For PWA)
 
 ---
 
