@@ -16,6 +16,7 @@
 - Express.js
 - JWT Auth
 - Firebase
+- Clerk
 - TypeScript
 - MongoDB (NoSQL DB)
 - Mongoose (ORM/ODM)
@@ -31,7 +32,6 @@
 
 - PostgreSQL (SQL DB)
 - Prisma (ORM/ODM)
-- Clerk Auth
 - Next.JS (Full-Stack React Framework) 
 - Docker (DevOps & Deployment)
 - React Native (For mobile app dev)
