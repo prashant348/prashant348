@@ -1,7 +1,7 @@
 # Hi there, I'm Prashant (codingweapon) 👋
 
 ## I will come directly to the point
-### First of all I am not focused on specific stack. I learn whatever comes in my way of building Full-Stack Applications. Always Hungry for exploring technologies and building Full-Stack apps using them. Also I build whatever EXCITES me.
+### First of all I am not focused on specific stack. I am Passionate about Full-Stack Applications and learn whatever comes in my way of building Full-Stack Applications. Always Hungry for exploring technologies and building Full-Stack apps using them. I explore, learned and build whatever EXCITES me.
 
 ## 🛠️ My Skills & Tech Stack
 
@@ -36,6 +36,7 @@
 - Next.JS (Full-Stack React Framework) 
 - Docker (DevOps & Deployment)
 - React Native (For mobile app dev)
+- djando (Python Backend)
 
 
 ## 🌐 Connect with Me
