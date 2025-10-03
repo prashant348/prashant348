@@ -11,8 +11,9 @@
 - JavaScript
 - Tailwind
 - React
-- Figma
-- Node.js
+- Zustand (For State Management)
+- Figma 
+- Node.js 
 - Express.js
 - JWT Auth
 - Firebase
@@ -20,11 +21,11 @@
 - TypeScript
 - MongoDB (NoSQL DB)
 - Mongoose (ORM/ODM)
-- Git & GitHub (For Version Control)
+- Git, GitHub & GitLens (For Version Control)
 - Postman (For API Testing)
-- vercel & render (For Deployment)
+- Vercel & Render (For Deployment)
 - Cloudinary (For Files Upload)
-- bubblewrap cli (For PWA)
+- Bubblewrap Cli (For PWA)
 
 ---
 
