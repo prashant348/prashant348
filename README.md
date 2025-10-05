@@ -15,7 +15,7 @@
 - Figma 
 - Node.js 
 - Express.js
-- JWT Auth
+- JWT Auth (My custom auth)
 - Firebase
 - Clerk
 - TypeScript
@@ -25,7 +25,7 @@
 - Postman (For API Testing)
 - Vercel & Render (For Deployment)
 - Cloudinary (For Files Upload)
-- Bubblewrap Cli (For PWA)
+- Bubblewrap Cli (For PWA - Progressive Web Applications)
 
 ---
 
