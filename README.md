@@ -8,7 +8,7 @@
 - Python (My first programming lang)
 - HTML
 - CSS
-- JavaScript
+- JavaScript (My second programming lang)
 - Tailwind
 - React
 - Zustand (For State Management)
