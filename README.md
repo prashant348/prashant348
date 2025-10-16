@@ -18,7 +18,6 @@
 - JWT Auth (My custom auth)
 - Firebase
 - Clerk
-- socket.io
 - TypeScript
 - MongoDB (NoSQL DB)
 - Mongoose (ORM/ODM)
