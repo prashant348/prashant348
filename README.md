@@ -15,7 +15,7 @@
 - Figma 
 - Node.js 
 - Express.js
-- REST API
+- REST APIs
 - WebSocket (socket.io)
 - JWT Auth (My custom auth)
 - Firebase
