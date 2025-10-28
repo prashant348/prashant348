@@ -19,6 +19,7 @@
 - WebSocket (socket.io)
 - JWT Auth (My custom auth)
 - Firebase
+- Supabase
 - Clerk
 - TypeScript
 - MongoDB (NoSQL DB)
