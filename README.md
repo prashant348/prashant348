@@ -23,7 +23,7 @@
 - Clerk
 - TypeScript
 - MongoDB (NoSQL DB)
-- Mongoose (ORM/ODM)
+- Mongoose (ORM/ODM for MongoDB)
 - Git, GitHub & GitLens (For Version Control)
 - Postman (For API Testing)
 - Vercel & Render (For Deployment)
