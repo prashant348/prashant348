@@ -22,6 +22,7 @@
 - Supabase
 - Clerk
 - TypeScript
+- flask (Basics)
 - MongoDB (NoSQL DB)
 - Mongoose (ORM/ODM for MongoDB)
 - Git, GitHub & GitLens (For Version Control)
