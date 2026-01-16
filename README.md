@@ -71,7 +71,7 @@ I focus more on **understanding systems** than blindly following trends.
   <img src="https://skillicons.dev/icons?i=nextjs,prisma,postgresql,docker,go" />
 </p>
 
-**Building reusable Systems & Architecture from scratch** 
+**Skill Polishing & Fulfilling Knowledge Gaps through Backend-Heavy Development like Building reusable Systems & Architecture from scratch** 
 
 ---
 
