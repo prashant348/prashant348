@@ -65,11 +65,13 @@ I focus more on **understanding systems** than blindly following trends.
 
 ---
 
-### 📚 Currently Exploring
+### 📚 Currently Exploring & Working On:
 
 <p>
   <img src="https://skillicons.dev/icons?i=nextjs,prisma,postgresql,docker,go" />
 </p>
+
+**Building reusable Systems & Architecture from scratch** 
 
 ---
 
