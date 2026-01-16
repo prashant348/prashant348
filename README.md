@@ -1,63 +1,99 @@
-# Hi there, I'm Prashant (codingweapon) 👋
+<h1 align="center">Hi, I'm Prashant 👋</h1>
+<h3 align="center">Full-Stack Developer • Builder • Tech Explorer</h3>
 
-## I will come directly to the point
-### First of all I am not focused on specific stack. I am Passionate about Full-Stack Applications and learn whatever comes in my way of building Full-Stack Applications. Always Hungry for exploring technologies and building Full-Stack apps using them. I explore, learned and build whatever EXCITES me.
-
-## 🛠️ My Skills & Tech Stack
-
-- Python (My first programming lang)
-- HTML
-- CSS
-- JavaScript (My second programming lang)
-- Tailwind
-- React
-- Zustand (For State Management)
-- Figma 
-- Node.js 
-- Express.js
-- REST APIs
-- WebSocket (socket.io)
-- JWT Auth (My custom auth)
-- Firebase
-- Supabase
-- Clerk
-- TypeScript
-- flask (Basics)
-- MongoDB (NoSQL DB)
-- Mongoose (ORM/ODM for MongoDB)
-- Git, GitHub & GitLens (For Version Control)
-- Postman (For API Testing)
-- Vercel & Render (For Deployment)
-- Cloudinary (For Files Upload)
-- Bubblewrap Cli (For PWA - Progressive Web Applications)
+<p align="center">
+  <a href="https://github.com/codingweapon">
+    <img src="https://komarev.com/ghpvc/?username=codingweapon&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
+</p>
 
 ---
 
-## 🛠️ Current Learning Goals
+### 🧠 Who Am I?
 
-- PostgreSQL (SQL DB)
-- Prisma (ORM/ODM)
-- Next.JS (Full-Stack React Framework) 
-- Docker (DevOps & Deployment)
-- React Native (For mobile app dev)
-- djando (Python Backend)
+I’m not **married** to any single tech stack.
 
+I love **building real-world full-stack applications**, learning *whatever technology is required* to bring ideas to life.  
+If something excites me — I **learn it, break it, and build with it**.
 
-## 🌐 Connect with Me
-
-- 🧵 [Threads: @codingweapon](https://www.threads.net/codingweapon)
-- 📸 [Instagram: @codingweapon](https://www.instagram.com/codingweapon)
--    [YouTube: @realcodingweapon](https://www.youtube.com/@realcodingweapon)
+I focus more on **understanding systems** than blindly following trends.
 
 ---
 
-## 💡 About Me
+### 🚀 What I Do
 
-> “I'm not focused on a specific tech stack — I just love learning, exploring and building whatever EXCITES me.”
-
-- I’m always open to collaborating on new ideas and projects!
-- Let's connect and learn together 🚀
+- Build **full-stack web applications**
+- Design **backends, databases, APIs & auth systems**
+- Work with **real-time systems & APIs**
+- Experiment with **new tools & architectures**
+- Learn by **building, not memorizing**
 
 ---
 
-🌟 _Thanks for stopping by!_
+### 🧰 Tech I Work With
+
+#### 🖥 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,figma" />
+</p>
+
+#### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,python,flask,firebase,supabase" />
+</p>
+
+#### 🗄 Databases, ORMs & Auth
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
+  <img src="https://skillicons.dev/icons?i=prisma" />
+  <img src="https://img.icons8.com/color/1200/mongoose.jpg" height="46" />
+  <img src="https://jwt.io/img/pic_logo.svg" height="46" />
+  <img src="https://clerk.com/_next/image?url=%2Fv2%2Fdownloads%2Favatar-colored.svg&w=1920&q=75" height="46px"  />
+</p>
+
+#### 🌥 Cloud, DevOps & Deployment
+<p>
+    <img src="https://skillicons.dev/icons?i=vercel,docker" />
+    <img src="https://pbs.twimg.com/profile_images/1735434212990169088/WoNsBQOA_400x400.jpg" height="46px" />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOtwRIgdokhEH5l5OiPcUG58zgF3gnVRkB3g&s" height="46px" />
+</p>
+
+#### 🛠 Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
+</p>
+
+---
+
+### 📚 Currently Exploring
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,prisma,postgresql,docker,go" />
+</p>
+
+---
+
+### 🌐 Let’s Connect
+
+<p>
+  <a href="https://www.threads.net/@codingweapon">
+    <img src="https://img.shields.io/badge/Threads-@codingweapon-black?style=for-the-badge" />
+  </a>
+  <a href="https://www.instagram.com/codingweapon">
+    <img src="https://img.shields.io/badge/Instagram-@codingweapon-E4405F?style=for-the-badge" />
+  </a>
+  <a href="https://www.youtube.com/@realcodingweapon">
+    <img src="https://img.shields.io/badge/YouTube-RealCodingWeapon-red?style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+### 💡 Philosophy
+
+> *“I’m not focused on a specific tech stack —  
+> I focus on learning, exploring, and building things that excite me.”*
+
+Always open to collaboration, discussions, and building cool stuff 🚀  
+Thanks for stopping by ⭐
+
