@@ -37,23 +37,24 @@ I focus more on **understanding systems** than blindly following trends.
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,figma" />
 </p>
 
-#### ⚙️ Backend
+#### ⚙️ Backend & Authentication
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,python,flask,firebase,supabase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,python,fastapi,firebase,supabase" />
+  <img src="https://clerk.com/_next/image?url=%2Fv2%2Fdownloads%2Favatar-colored.svg&w=1920&q=75" height="46px" />
+  <img src="https://jwt.io/img/pic_logo.svg" height="46" />
 </p>
 
-#### 🗄 Databases, ORMs & Auth
+#### 🗄 Databases & ORMs
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
   <img src="https://skillicons.dev/icons?i=prisma" />
   <img src="https://img.icons8.com/color/1200/mongoose.jpg" height="46" />
-  <img src="https://jwt.io/img/pic_logo.svg" height="46" />
-  <img src="https://clerk.com/_next/image?url=%2Fv2%2Fdownloads%2Favatar-colored.svg&w=1920&q=75" height="46px"  />
+  <img src="https://avatars.githubusercontent.com/u/6043126?s=200&v=4" height="46" />
 </p>
 
-#### 🌥 Cloud, DevOps & Deployment
+#### 🌥 Cloud Platforms & Deployment
 <p>
-    <img src="https://skillicons.dev/icons?i=vercel,docker" />
+    <img src="https://skillicons.dev/icons?i=vercel" />
     <img src="https://pbs.twimg.com/profile_images/1735434212990169088/WoNsBQOA_400x400.jpg" height="46px" />
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOtwRIgdokhEH5l5OiPcUG58zgF3gnVRkB3g&s" height="46px" />
 </p>
@@ -65,13 +66,17 @@ I focus more on **understanding systems** than blindly following trends.
 
 ---
 
-### 📚 Currently Exploring & Working On:
+### 📚 Currently Exploring & Focusing On:
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,prisma,postgresql,docker,go" />
+  <img src="https://skillicons.dev/icons?i=fastapi" />
+  <img src="https://avatars.githubusercontent.com/u/6043126?s=200&v=4" height="46" />
 </p>
 
-**Skill Polishing & Fulfilling Knowledge Gaps through Backend-Heavy Development like Building reusable Systems & Architecture from scratch** 
+- **Skill Polishing** through deep diving into **Existing Tech Stack**
+- **Backend-Heavy** development
+- Fulfilling **Knowledge Gaps**
+- Exploring **DevOps** & **Cloud**
 
 ---
 
