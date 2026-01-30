@@ -68,11 +68,6 @@ I focus more on **understanding systems** than blindly following trends.
 
 ### 📚 Currently Exploring & Focusing On:
 
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi" />
-  <img src="https://avatars.githubusercontent.com/u/6043126?s=200&v=4" height="46" />
-</p>
-
 - **Skill Polishing** through deep diving into **Existing Tech Stack**
 - **Backend-Heavy** development
 - Fulfilling **Knowledge Gaps**
